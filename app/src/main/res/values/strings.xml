@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bola</string>
+    <string name="nama_pemain">Nama Pemain</string>
+    <string name="penjelasan_pemain">Detail Pemain</string>
+    <string name="about">About</string>
+    <string name="about_name">Nizar Naufal</string>
+    <string name="about_email">nizarnfl21@gmail.com</string>
+</resources>
